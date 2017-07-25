@@ -1,0 +1,81 @@
+#subject {
+    border-bottom: 1px solid lightgrey;
+    padding: 30px 10px;
+}
+
+a {
+    margin: 10px 15px;
+    color: grey;
+    font-size: 1.4em;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.violet {
+    color: violet;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: #a75a05 ;
+}
+
+.cadetblue {
+    color: cadetblue;
+}
+
+.teal {
+    color: teal;
+}
+
+.indigo {
+    color: indigo;
+}
+
+.subject-details {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.subject-details div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid lightgray;
+    width: 90%;
+    margin: auto;
+
+}
+
+.subject-details-header {
+    float: left;
+    width: 20%;
+    color: darkslategray;
+    padding-top: 5px;
+}
+
+.subject-details-ul {
+    display: inline-block;
+    width: 80%;
+    text-align: left;
+    list-style: none;
+}
+
+.subject-details-li {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: 10px 50px;
+    display: inline-block;
+    width: 214px;
+
+}

@@ -1,0 +1,63 @@
+#nav {
+    border-bottom: 1px solid wheat; 
+}
+
+.nav-item {
+    display: inline-block;
+    width: 33.33%;
+    text-align: center;
+    line-height: 27px;
+    padding: 10px 0;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.brand-name {
+    font-size: 1.4em;
+}
+
+.brand-name:hover {
+    color: green;
+}
+.brand-name span{
+    font-weight: 100;
+    letter-spacing: 0.25em;
+}
+
+.left {
+    text-align: left;
+}
+.left div{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.left div input {
+    border: none;
+    background-color: lightskyblue;
+    color: #fff;
+    line-height: 20px;
+    height: 30px;
+    padding: 10px;
+}
+
+.right {
+    text-align: right;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em;
+}

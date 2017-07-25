@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+#first-div {
+    height: 80vh;
+    background-color: deepskyblue;
+    position: relative;
+}
